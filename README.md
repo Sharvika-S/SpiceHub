@@ -13,7 +13,7 @@ A welcoming landing page with a hero section and highlights.
 ---
 
 ### 👨‍🍳 About Us
-Information about the restaurant's background, chefs, and story.
+Information about the restaurant's background.
 ![About Us](assets/webimages/about.png)
 
 ---
