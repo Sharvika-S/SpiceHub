@@ -8,31 +8,31 @@
 
 ### 🏠 Home Page
 A welcoming landing page with a hero section and highlights.
-![Home](assets/images/home.png)
+![Home](assets/webimages/home.png)
 
 ---
 
 ### 👨‍🍳 About Us
 Information about the restaurant's background, chefs, and story.
-![About Us](assets/images/about.png)
+![About Us](assets/webimages/about.png)
 
 ---
 
 ### 🍽️ Menu
 A stylish presentation of dishes offered, categorized for user ease.
-![Menu](assets/images/menu.png)
+![Menu](assets/webimages/menu.png)
 
 ---
 
 ### 📝 Blog
 A section for articles, recipes, and food-related content.
-![Blog](assets/images/blog.png)
+![Blog](assets/webimages/blog.png)
 
 ---
 
 ### 📞 Contact Us
 Contact form and address/location details for customer interaction.
-![Contact Us](assets/images/contact.png)
+![Contact Us](assets/webimages/contact.png)
 
 ---
 
