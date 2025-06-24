@@ -2,6 +2,11 @@
 
 **SpiceHub** is a fully responsive restaurant website built using **HTML**, **CSS**, and **JavaScript**. It is designed to provide a clean, modern, and user-friendly interface suitable for restaurants, cafés, and food businesses.
 
+## 🔗 Live Demo
+
+Click here to view the live website:  
+👉 [https://sharvika-s.github.io/SpiceHub/](https://sharvika-s.github.io/SpiceHub/)
+
 ---
 
 ## 🔗 Pages Included
