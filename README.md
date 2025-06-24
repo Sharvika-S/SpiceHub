@@ -38,10 +38,10 @@ Contact form and address/location details for customer interaction.
 
 ## 🛠️ Built With
 
-- HTML5  
-- CSS3  
+- HTML
+- CSS
 - JavaScript
 
 ---
 
-## 📂 Folder Structure
+
